@@ -1,5 +1,4 @@
 # design_patterns-v-1
-<<<<<<< HEAD
 Design patterns are reusable solutions to common software development problems. They are not specific to any programming language, but are commonly implemented in various languages such as JavaScript. Some examples of design patterns that are commonly used in JavaScript include:
 
 Module Pattern: 
@@ -16,5 +15,3 @@ Factory Pattern:
 
 Decorator Pattern: 
   This pattern allows you to add new behavior to existing objects dynamically, without modifying their class.
-=======
->>>>>>> e6c902b366b9680af7d58fa7f3c531bdacc6bd3c
