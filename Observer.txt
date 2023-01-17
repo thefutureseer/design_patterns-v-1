@@ -1,0 +1,2 @@
+Observer
+The Observer pattern allows objects to be notified of changes to other objects, without being tightly coupled to them. This is useful for creating event-driven systems.

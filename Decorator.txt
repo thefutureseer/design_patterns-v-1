@@ -1,0 +1,2 @@
+Decorator
+The Decorator pattern allows you to add new behavior to existing objects dynamically, without modifying their class.
