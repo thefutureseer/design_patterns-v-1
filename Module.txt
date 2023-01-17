@@ -1,0 +1,32 @@
+Module
+The Module pattern is a design pattern used in JavaScript to 
+emulate the concept of classes in other programming languages. 
+One of the key benefits of the Module pattern is that it allows 
+for the creation of private and public methods and variables, 
+which helps to keep the global namespace clean and provides a 
+clear structure for your code. The private methods and variables 
+are only accessible within the scope of the module, and the public 
+methods and variables are exposed to the rest of the application.
+The Module design pattern is a way to create self-contained and 
+reusable code in JavaScript. It provides a way to encapsulate data 
+and behavior, and to hide implementation details from the rest of 
+the application. The pattern is useful for creating code that is 
+easy to understand, test, and maintain.
+The Module pattern is widely used in JavaScript, it's popular in 
+libraries and frameworks such as AngularJS, ReactJS and VueJS. 
+It's also used in many large-scale JavaScript applications to 
+organize the code and make it more maintainable.
+
+Another variation of the Module pattern is 
+the Revealing Module 
+pattern, which is similar to the basic Module pattern but it also 
+allows for the easy revelation of certain private methods and 
+variables by returning an anonymous object with pointers to the 
+private functionality. This variation of the pattern makes it easy 
+to expose only the necessary public methods and variables, without 
+revealing the entire implementation.
+
+It's important to note that The module pattern is just one of the 
+ways to organize the code, other alternatives like the ES6 module 
+system and the CommonJS module system are also available and are 
+widely used.
